@@ -1,6 +1,22 @@
 {
   "name": "vue-squish-fit-text",
-  "version": "1.0.0",
+  "author": "Paweł Zatoka",
+  "bugs": {
+    "url": "https://github.com/hoXyy/vue-squish-fit-text/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoXyy/vue-squish-fit-text.git"
+  },
+  "keywords": [
+    "vue3",
+    "vue",
+    "textfit",
+    "fit",
+    "component"
+  ],
+  "license": "MIT",
+  "version": "1.0.1",
   "type": "module",
   "files": [
     "dist"

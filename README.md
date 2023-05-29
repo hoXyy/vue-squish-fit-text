@@ -18,13 +18,12 @@ import "./style.css";
 import App from "./App.vue";
 import VueSquishFitText from "vue-squish-fit-text";
 
-createApp(App).component("squish-fit-text", VueSquishFitText).mount("#app");
+createApp(App).component("vue-squish-fit-text", VueSquishFitText).mount("#app");
 ```
 or locally:
 ```vue
 <script setup lang="ts">
 import VueSquishFitText from "vue-squish-fit-text";
-...
 </script>
 
 <template>

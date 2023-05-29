@@ -1,4 +1,4 @@
-# vue-squish-fit-text
+# [vue-squish-fit-text](https://www.npmjs.com/package/vue-squish-fit-text)
 
 ## Introduction
 _A port of [sc-fitted-text](https://github.com/SupportClass/sc-fitted-text) to a Vue 3 Component._
